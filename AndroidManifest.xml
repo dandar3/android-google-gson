@@ -16,6 +16,6 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.google.code.gson"
-    android:versionCode="223"
-    android:versionName="2.2.3">
+    android:versionCode="224"
+    android:versionName="2.2.4">
 </manifest>
