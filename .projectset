@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <psf version="2.0">
 <provider id="org.eclipse.team.svn.core.svnnature">
-<project reference="1.0.1,https://github.com/dandar3/android-gson/tags/1.1,android-gson,e0b3a1e12613001e1ab9d403f55653db;https://github.com/dandar3/android-gson/;https://github.com/dandar3/android-gson/;branches;tags;trunk;true;1756008a-53fe-0d10-35ee-ce57b7db7bff;https://github.com/dandar3/android-gson;;false;;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-google-gson/tags/1.1,android-google-gson,e0b3a1e12613001e1ab9d403f55653db;https://github.com/dandar3/android-google-gson/;https://github.com/dandar3/android-google-gson/;branches;tags;trunk;true;1756008a-53fe-0d10-35ee-ce57b7db7bff;https://github.com/dandar3/android-google-gson;;false;;;0"/>
 </provider>
 </psf>
